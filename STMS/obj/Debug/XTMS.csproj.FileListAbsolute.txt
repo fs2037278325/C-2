@@ -1,0 +1,12 @@
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\Example_1\bin\Debug\Example_1.exe.config
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\Example_1\bin\Debug\Example_1.exe
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\Example_1\bin\Debug\Example_1.pdb
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\Example_1\obj\Debug\XTMS.csproj.AssemblyReference.cache
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\Example_1\obj\Debug\Example_1.FormFather.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\Example_1\obj\Debug\Example_1.Formlogin.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\Example_1\obj\Debug\Example_1.Properties.Resources.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\Example_1\obj\Debug\XTMS.csproj.GenerateResource.cache
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\Example_1\obj\Debug\XTMS.csproj.CoreCompileInputs.cache
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\Example_1\obj\Debug\Example_1.exe
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\Example_1\obj\Debug\Example_1.pdb
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\Example_1\obj\Debug\Example_1.FormSignup.resources

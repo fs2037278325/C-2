@@ -1,0 +1,61 @@
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.Formlogin.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.Properties.Resources.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\STMS.csproj.GenerateResource.cache
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\STMS.csproj.CoreCompileInputs.cache
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.exe
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.pdb
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\bin\Debug\Example_1.exe.config
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\bin\Debug\Example_1.exe
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\bin\Debug\Example_1.pdb
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.FormMain.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.FormAverage.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.FormChange.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.FormClass.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.FormCourse.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.FormLock.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.FormScanScore.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.FormScore.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.FormStudent.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\Example_1.FormTeacher.resources
+D:\Desktop\OOP课设\学生成绩管理系统\c# program\STMS\obj\Debug\STMS.csproj.AssemblyReference.cache
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\bin\Debug\Example_1.exe.config
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\bin\Debug\Example_1.exe
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\bin\Debug\Example_1.pdb
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\STMS.csproj.AssemblyReference.cache
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.FormAverage.resources
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.FormChange.resources
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.FormClass.resources
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.FormCourse.resources
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.FormLock.resources
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.FormLogin.resources
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.FormMain.resources
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.FormScanScore.resources
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.FormScore.resources
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.FormStudent.resources
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.FormTeacher.resources
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.Properties.Resources.resources
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\STMS.csproj.GenerateResource.cache
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\STMS.csproj.CoreCompileInputs.cache
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.exe
+D:\Desktop\大二上\OOP课设\学生成绩管理系统\信管2001班_李淼_02205005\STMS\obj\Debug\Example_1.pdb
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\bin\Debug\Example_1.exe.config
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\bin\Debug\Example_1.exe
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\bin\Debug\Example_1.pdb
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\STMS.csproj.AssemblyReference.cache
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\STMS.csproj.SuggestedBindingRedirects.cache
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.FormAverage.resources
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.FormChange.resources
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.FormClass.resources
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.FormCourse.resources
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.FormLock.resources
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.FormLogin.resources
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.FormMain.resources
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.FormScanScore.resources
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.FormScore.resources
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.FormStudent.resources
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.FormTeacher.resources
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.Properties.Resources.resources
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\STMS.csproj.GenerateResource.cache
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\STMS.csproj.CoreCompileInputs.cache
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.exe
+D:\项目经历\大二上课设（学生管理系统2）\学生成绩管理系统\STMS\obj\Debug\Example_1.pdb
